@@ -1,0 +1,3 @@
+[submodule "matrix-firehose"]
+	path = matrix-firehose
+	url = https://invent.kde.org/tfella/matrix-firehose.git
