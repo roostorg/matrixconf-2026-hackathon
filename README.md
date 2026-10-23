@@ -3,4 +3,4 @@
 Hackathon repo!
 
 - [Ideas](IDEAS.md)
-- [matrix-firehose](matrix-firehose): experiment to export Matrix messages to Coop, e.g. for community moderation
+- [matrix-firehose](https://invent.kde.org/tfella/matrix-firehose): experiment to export Matrix messages to Coop, e.g. for community moderation
